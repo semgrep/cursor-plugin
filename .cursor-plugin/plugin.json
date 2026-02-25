@@ -1,0 +1,9 @@
+{
+  "name": "semgrep-plugin",
+  "displayName": "Semgrep",
+  "description": "Plugin by Semgrep. Provides security scanning via MCP, hooks, and skills for Cursor.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Semgrep"
+  }
+}
