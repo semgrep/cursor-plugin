@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "hooks": {
+    "afterFileEdit": [
+      {
+        "command": "semgrep mcp -k record-file-edit -a cursor"
+      }
+    ],
+    "stop": [
+      {
+        "command": "semgrep mcp -k stop-cli-scan -a cursor"
+      }
+    ]
+  }
+}
