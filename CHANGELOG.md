@@ -1,4 +1,6 @@
 # Change log
+## 0.4.0
+fix cursor readme
 ## 0.3.0
 fix: update sync workflow to use .mcp.json for cursor repo
 ## 0.2.0
