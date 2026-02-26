@@ -1,5 +1,5 @@
 ---
-name: setup_semgrep_plugin
+name: setup-semgrep-plugin
 description: Set up the Semgrep plugin by installing Semgrep, authenticating, and verifying compatibility
 ---
 # Setup Semgrep Plugin
