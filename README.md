@@ -6,7 +6,7 @@
  To use the Semgrep plugin:
  1. Install the plugin from the Cursor Plugin Marketplace
 
- 1. Run the `/semgrep-plugin:setup-semgrep-plugin` skill.
+ 1. Run the `/setup-semgrep-plugin` skill.
 
  ## Contributing
 
