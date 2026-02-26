@@ -1,4 +1,6 @@
 # Change log
+## 0.4.2
+fix: update command for Semgrep plugin setup in README
 ## 0.4.1
 fix: update Cursor readme to say Semgrep Cursor Plugin
 ## 0.4.0
