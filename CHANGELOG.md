@@ -1,4 +1,6 @@
 # Change log
+## 0.4.3
+chore: update plugin description
 ## 0.4.2
 fix: update command for Semgrep plugin setup in README
 ## 0.4.1
