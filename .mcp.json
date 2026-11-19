@@ -1,10 +1,7 @@
 {
   "mcpServers": {
     "semgrep": {
-      "command": "semgrep",
-      "args": [
-        "mcp"
-      ]
+      "url": "https://semgrep.dev/api/mcp"
     }
   }
 }
