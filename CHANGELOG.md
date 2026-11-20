@@ -1,4 +1,6 @@
 # Change log
+## 0.5.0
+feat: use Semgrep's remote MCP server
 ## 0.4.3
 chore: update plugin description
 ## 0.4.2
