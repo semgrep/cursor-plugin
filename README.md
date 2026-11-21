@@ -7,3 +7,6 @@
  1. Install the plugin from the Cursor Plugin Marketplace
 
  1. Run the `/setup-semgrep-plugin` skill.
+
+ 1. Connect the [Semgrep MCP server](https://docs.semgrep.dev/mcp/overview) (`https://semgrep.dev/api/mcp`): in
+    Cursor's MCP settings, sign in to the `semgrep` server through your browser with OAuth.
