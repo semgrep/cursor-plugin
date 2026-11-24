@@ -1,4 +1,8 @@
 # Change log
+## 0.5.0
+feat: use Semgrep's remote MCP server
+- The plugin no longer includes a local MCP scanning tool. Scanning now runs only through the hooks.
+- The remote MCP server (`https://semgrep.dev/api/mcp`) needs a separate authentication.
 ## 0.4.3
 chore: update plugin description
 ## 0.4.2
